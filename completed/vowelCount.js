@@ -13,4 +13,4 @@ function getCount(str) {
     return vowelsCount;
   }
 
-  getCount("abracadabra")
+ console.log(getCount("abracadabra"));
