@@ -1,2 +1,3 @@
-# CodeWarsAlgo
-this is a grouping of codewars algo that I am working through
+## **CodeWarsAlgo**
+
+This is a grouping of codewars algo that I am working through
