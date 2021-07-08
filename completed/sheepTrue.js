@@ -17,4 +17,4 @@ function countSheeps(arrayOfSheep) {
     return count
   }
 
-  countSheeps(array1)
+  console.log(countSheeps(array1))
